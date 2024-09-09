@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f9f5125-4e16-4df9-a851-4cbd1371f8bf" name="Changes" comment="" />
+    <list default="true" id="7f9f5125-4e16-4df9-a851-4cbd1371f8bf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Proveedor.py" beforeDir="false" afterPath="$PROJECT_DIR$/Proveedor.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,5 +62,16 @@
       <updated>1725852044770</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Proveedor.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
